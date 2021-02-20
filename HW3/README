@@ -2,7 +2,10 @@
 Compile the program by typing:
 $ make
 
-Type the following in command line.
+Delete the file by typing:
+$ make clean
+
+Type the following to run the program.
 $ ./bin/cb <input file name> <output file name>
 
 example:
