@@ -5,7 +5,7 @@ $ make
 Delete the file by typing:
 $ make clean
 
-Type the following in command line.
+Type the following to run the program.
 $ ./mps <input file name> <output file name>
 
 example:
