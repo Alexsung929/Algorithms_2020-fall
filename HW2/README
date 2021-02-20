@@ -2,6 +2,9 @@
 Compile the program by typing:
 $ make
 
+Delete the file by typing:
+$ make clean
+
 Type the following in command line.
 $ ./mps <input file name> <output file name>
 
