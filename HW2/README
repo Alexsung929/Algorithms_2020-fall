@@ -1,0 +1,10 @@
+#C++
+Compile the program by typing:
+$ make
+
+Type the following in command line.
+$ ./mps <input file name> <output file name>
+
+example:
+$ ./bin/mps inputs/12.in outputs/12.out
+
