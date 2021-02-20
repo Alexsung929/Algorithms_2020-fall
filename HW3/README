@@ -1,0 +1,14 @@
+#C++
+Compile the program by typing:
+$ make
+
+Type the following in command line.
+$ ./bin/cb <input file name> <output file name>
+
+example:
+$ ./bin/cb inputs/public_case_8.in outputs/public_case_8.out
+
+
+lib資料夾包含了紀錄時間的程式
+
+
